@@ -1,0 +1,4 @@
+beautifulsoup4
+huepy
+requests
+validator-collection
